@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_name">Enter your Name</string>
+    <string name="send_key">Send</string>
+    <string name="edit_pw">password</string>
+    <string name="login_key">Login</string>
+</resources>
